@@ -15,4 +15,4 @@ venue: "Under Review at ICCV"
 #   }
 # code: https://github.com/vsimkus/academic-jekyll
 ---
-We hypothesise that machine translation can be improved by introducing a visual component. For this, we design a new architecture, CLIPTrans, a combination of the multimodal CLIP and the multilingual mBART. We demonstrate significant improvements over the previous MMT SOTA, especially across low0-resource languages.
+We hypothesise that machine translation can be improved by introducing a visual component. For this, we design a new architecture, CLIPTrans, a combination of the multimodal CLIP and the multilingual mBART. We demonstrate significant improvements over the previous MMT SOTA, especially across low-resource languages.
