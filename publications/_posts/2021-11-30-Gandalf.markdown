@@ -4,7 +4,7 @@ date:   2021-09-30
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 authors: "Siddhant Kharbanda, <strong>Devaansh Gupta</strong>, Erik Schultheis, Atmadeep Banerjee, Vikas Verma, Rohit Babbar"
-# venue: "Under Review at ICCV 2023"
+venue: "Preview"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
