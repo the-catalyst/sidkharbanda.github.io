@@ -4,7 +4,7 @@ date:  2023-01-31
 image: /publications/images/SyncXML.png
 # image_onhover: /publications/images/InceptionXML.png
 author: "Siddhant Kharbanda, Atmadeep Banerjee, <strong>Devaansh Gupta</strong>, Akash Palrecha, Rohit Babbar"
-venue: "SIGIR, 2023"
+venue: "SIGIR"
 # bib: |
 #   @article{kharbanda2021inceptionxml,
 #   title={InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification},
