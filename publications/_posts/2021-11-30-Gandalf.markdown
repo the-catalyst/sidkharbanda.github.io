@@ -14,7 +14,4 @@ venue: "Preprint"
 #   }
 # code: https://github.com/vsimkus/academic-jekyll
 ---
-We hypothesise that machine translation can be improved by introducing a visual component. For this, we design a new architecture, CLIPTrans, a combination of the multimodal CLIP and the multilingual mBART. We demonstrate significant improvements over the previous MMT SOTA, especially across low0-resource languages.
-
-
-
+We take a data-centric approach to short-text extreme classification and propose data augmentation methods, LabelMix and Gandalf, which are derived from label-to-label correlations in the training set. We demonstrate their effects on previous architectures and forward the SOTA by imbuing effective inductive biases that were missing in previous models.
