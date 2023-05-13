@@ -109,12 +109,12 @@ span.highlight {
 
 .project-thumbnail-parent {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns:2fr;
 
   .project-thumbnail {
-    width: auto; 
-    height: auto; 
-//     max-width: 200%;
+    width: 200%; 
+    height: 200%; 
+    max-width: 200%;
     
     grid-row-start: 1;
     grid-column-start: 1;
@@ -129,7 +129,7 @@ span.highlight {
     // @include media-breakpoint-down(sm) {
     //   max-width: 75%;
     // }
-    transform: scale(2):
+//     transform: scale(2):
   }
 }
 
