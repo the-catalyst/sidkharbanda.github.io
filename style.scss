@@ -129,8 +129,7 @@ span.highlight {
     // @include media-breakpoint-down(sm) {
     //   max-width: 75%;
     // }
-    width: 200%; // Adjust the value as needed
-    height: 200%
+    transform: scale(2);
   }
 }
 
