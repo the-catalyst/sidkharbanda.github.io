@@ -1,8 +1,8 @@
 ---
 title:  "InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification"
 date:   2022-07-23
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
+image: /publications/images/SyncXML.jpg
+image_onhover: /publications/images/InceptionXML.jpg
 author: "Siddhant Kharbanda, Atmadeep Banerjee, <strong>Devaansh Gupta</strong>, Akash Palrecha, Rohit Babbar"
 authors: "Siddhant Kharbanda, Atmadeep Banerjee, <strong>Devaansh Gupta</strong>, Akash Palrecha, Rohit Babbar"
 venue: "SIGIR, 2023"
