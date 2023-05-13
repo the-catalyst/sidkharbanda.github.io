@@ -1,6 +1,6 @@
 ---
 title: "<a href='https://arxiv.org/abs/2109.07319'>InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification</a>"
-date:   2023-07-23
+date:   2021-09-30
 image: /publications/images/SyncXML.png
 # image_onhover: /publications/images/project-image-on-hover.jpg
 authors: "Siddhant Kharbanda, <strong>Devaansh Gupta</strong>, Erik Schultheis, Atmadeep Banerjee, Vikas Verma, Rohit Babbar"
