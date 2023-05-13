@@ -1,5 +1,5 @@
 ---
-title:  "InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification"
+title:  "<a href = \"https://arxiv.org/abs/2109.07319\"> InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification<a>"
 date:   2022-07-23
 image: /publications/images/SyncXML.jpg
 image_onhover: /publications/images/InceptionXML.jpg
