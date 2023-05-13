@@ -1,16 +1,20 @@
 ---
-title: "<a href = \"https://arxiv.org/abs/2109.07319\"> InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification</a>"
-date:  2023-07-23
-image: /publications/images/SyncXML.png
-# image_onhover: /publications/images/InceptionXML.png
-author: "Siddhant Kharbanda, Atmadeep Banerjee, <strong>Devaansh Gupta</strong>, Akash Palrecha, Rohit Babbar"
-venue: "SIGIR, 2023"
+title:  "<a href=\"https://openreview.net/pdf?id=05ff9BRSMzE\">Gandalf : Data Augmentation is all you need for Extreme Classification</a>"
+date:   2021-09-30
+image: /publications/images/Gandalf.png
+# image_onhover: /publications/images/project-image-on-hover.jpg
+authors: "Siddhant Kharbanda, <strong>Devaansh Gupta</strong>, Erik Schultheis, Atmadeep Banerjee, Vikas Verma, Rohit Babbar"
+venue: "Preprint"
 # bib: |
-#   @article{kharbanda2021inceptionxml,
-#   title={InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification},
-#   author={Kharbanda, Siddhant and Banerjee, Atmadeep and Palrecha, Akash and Gupta, Devaansh and Babbar, Rohit},
-#   journal={arXiv preprint arXiv:2109.07319},
-#   year={2021}
+#   @article{Doe2021,
+#     author = {Doe J.},
+#     journal = {A journal of imaginary research},
+#     title = {Another title of the publication},
+#     year = {2021}
 #   }
+# code: https://github.com/vsimkus/academic-jekyll
 ---
-We developed a lightweight convolutional encoder, InceptionXML, in a dynamic negative sampling framework, SyncXML, for short-text extreme classification. InceptionXML in SyncXML beat the previous SOTA on a multitude of performance and parametric metrics.
+We hypothesise that machine translation can be improved by introducing a visual component. For this, we design a new architecture, CLIPTrans, a combination of the multimodal CLIP and the multilingual mBART. We demonstrate significant improvements over the previous MMT SOTA, especially across low0-resource languages.
+
+
+
