@@ -1,17 +1,17 @@
 ---
-title:  "Title of the publication"
-date:   2021-07-13 09:26:00 +00:00
+title:  "InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification"
+date:   2022-07-23
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong><a href='https://vsimkus.github.io/academic-jekyll/'>John Doe</a></strong>"
-venue: "Venue"
+author: "Siddhant Kharbanda, Atmadeep Banerjee, <strong>Devaansh Gupta</strong>, Akash Palrecha, Rohit Babbar"
+<!-- authors: "<strong><a href='https://vsimkus.github.io/academic-jekyll/'>John Doe</a></strong>" -->
+venue: "SIGIR, 2023"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Title of the publication},
-    year = {2021}
-  }
+  @article{kharbanda2021inceptionxml,
+  title={InceptionXML: A Lightweight Framework with Synchronized Negative Sampling for Short Text Extreme Classification},
+  author={Kharbanda, Siddhant and Banerjee, Atmadeep and Palrecha, Akash and Gupta, Devaansh and Babbar, Rohit},
+  journal={arXiv preprint arXiv:2109.07319},
+  year={2021}
+}
 ---
-Brief description of the project.
+We developed a lightweight convolutional encoder, InceptionXML, in a dynamic negative sampling framework, SyncXML, for short-text extreme classification. InceptionXML in SyncXML beat the previous SOTA on a multitude of performance and parametric metrics.
