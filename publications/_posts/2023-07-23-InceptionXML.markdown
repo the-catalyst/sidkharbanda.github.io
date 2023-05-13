@@ -3,7 +3,7 @@ title: "<a href = \"https://arxiv.org/abs/2109.07319\"> InceptionXML: A Lightwei
 date:  2023-01-31
 image: /publications/images/SyncXML.png
 # image_onhover: /publications/images/InceptionXML.png
-author: "Siddhant Kharbanda, Atmadeep Banerjee, <strong>Devaansh Gupta</strong>, Akash Palrecha, Rohit Babbar"
+authors: "Siddhant Kharbanda, Atmadeep Banerjee, <strong>Devaansh Gupta</strong>, Akash Palrecha, Rohit Babbar"
 venue: "SIGIR"
 # bib: |
 #   @article{kharbanda2021inceptionxml,
