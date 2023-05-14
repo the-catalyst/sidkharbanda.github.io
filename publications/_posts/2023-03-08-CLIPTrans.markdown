@@ -2,10 +2,8 @@
 title:  "Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation(MMT)"
 date:   2023-03-08
 image: /publications/images/CLIPTrans.png
-# image_onhover: /publications/images/project-image-on-hover.jpg
-# author: "John Doe"
 authors: "<strong>Devaansh Gupta</strong>, Siddhant Kharbanda, Jiawei Zhou, Wanhua Li, Donglai Wei"
-venue: "Under Review at ICCV"
+venue: "Preprint"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
