@@ -2,7 +2,7 @@
 title:  "Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation(MMT)"
 date:   2023-07-06
 image: /publications/images/CLIPTrans.png
-authors: "<strong>Devaansh Gupta</strong>, Siddhant Kharbanda, Jiawei Zhou, Wanhua Li, Donglai Wei"
+authors: "<strong>Devaansh Gupta</strong>, Siddhant Kharbanda, Jiawei Zhou, Wanhua Li, Hanspeter Pfister, Donglai Wei"
 venue: "ICCV"
 # bib: |
 #   @article{Doe2021,
