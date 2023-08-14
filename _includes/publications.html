@@ -51,6 +51,11 @@
             </div>
         </div>
         {% endif %}
+        {% if post.project %}
+        {% if need_separator %} / {% endif %}
+        {% assign need_separator = true %}
+        <a href="{{post.project}}">project</a>
+        {% endif %}
         {% if post.arxiv %}
         {% if need_separator %} / {% endif %}
         {% assign need_separator = true %}
