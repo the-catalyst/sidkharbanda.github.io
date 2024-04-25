@@ -11,8 +11,9 @@ venue: "NeurIPS"
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
-Paper: https://arxiv.org/pdf/2211.00640.pdf
-Code: https://github.com/xmc-aalto/cascadexml
+paper: https://arxiv.org/pdf/2211.00640.pdf
+code: https://github.com/xmc-aalto/cascadexml
+video: https://www.youtube.com/watch?v=GnB9E5zvY_E&t=88s
 ---
 CascadeXML is an end-to-end transformer fine-tuning algorithm which aligns the intermediate layers to the multiple resolutions of a hierarchical label tree to perform multi-label classification over millions labels in a beam-search fashion, via multi-resolution dynamic hard negative mining, outperforming Amazon's PECOS Framework by 4-6% across 5 public benchmarks while cutting GPU requirements and inference time by half.
 
