@@ -1,5 +1,5 @@
 ---
-title:  "<a href=\"https://openreview.net/pdf?id=JuyFppXzh2\">Gandalf: Learning label correlations in Extreme Multi-label Classification via Label Features</a>"
+title:  "Gandalf: Learning label correlations in Extreme Multi-label Classification via Label Features"
 date:   2024-01-15
 image: /publications/images/Gandalf.png
 # image_onhover: /publications/images/project-image-on-hover.jpg
@@ -12,6 +12,6 @@ venue: "Preprint"
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
-# code: https://github.com/vsimkus/academic-jekyll
+paper: https://openreview.net/forum?id=JuyFppXzh2
 ---
 We investigate label correlations in output space in the order of millions and develop Gandalf, a novel data augmentation setup, which leverages label correlation graph to create soft-targets to use label-text as train data points. 

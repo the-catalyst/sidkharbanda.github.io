@@ -1,5 +1,5 @@
 ---
-title:  "<a href=\"https://arxiv.org/pdf/2308.15226.pdf\">CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation</a>"
+title:  "CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation"
 date:   2023-08-29
 image: /publications/images/CLIPTrans.png
 authors: "Devaansh Gupta, <strong>Siddhant Kharbanda</strong>, Jiawei Zhou, Wanhua Li, Hanspeter Pfister, Donglai Wei"
@@ -11,6 +11,7 @@ venue: "ICCV"
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
+paper: https://arxiv.org/abs/2308.15226
 project: https://devaansh100.github.io/projects/cliptrans/
 code: https://github.com/devaansh100/CLIPTrans
 ---

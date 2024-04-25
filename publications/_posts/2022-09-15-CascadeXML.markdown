@@ -11,7 +11,7 @@ venue: "NeurIPS"
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
-paper: https://arxiv.org/pdf/2211.00640.pdf
+paper: https://arxiv.org/abs/2211.00640
 code: https://github.com/xmc-aalto/cascadexml
 video: https://www.youtube.com/watch?v=GnB9E5zvY_E&t=88s
 ---

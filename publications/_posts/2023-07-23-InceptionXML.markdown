@@ -12,7 +12,7 @@ venue: "SIGIR"
 #   journal={arXiv preprint arXiv:2109.07319},
 #   year={2021}
 #   }
-paper: https://arxiv.org/pdf/2109.07319.pdf
+paper: https://arxiv.org/abs/2109.07319
 code: https://github.com/xmc-aalto/inceptionxml
 video: https://youtu.be/-O_naF86EPk?si=yZcbqhJSmLk7VYQd
 ---

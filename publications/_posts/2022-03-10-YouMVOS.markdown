@@ -11,7 +11,7 @@ venue: "CVPR"
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
-paper: https://donglaiw.github.io/paper/2022_cvpr_youmvos.pdf
+paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wei_YouMVOS_An_Actor-Centric_Multi-Shot_Video_Object_Segmentation_Dataset_CVPR_2022_paper.html
 project: https://donglaiw.github.io/proj/youMVOS/
 code: https://github.com/donglaiw/YouMVOS
 ---
