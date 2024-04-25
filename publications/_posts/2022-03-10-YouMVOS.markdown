@@ -1,0 +1,18 @@
+---
+title:  "YouMVOS: An Actor-centric Multi-shot Video Object Segmentation Dataset"
+date:   2022-03-10
+image: /publications/images/YouMVOS.png
+authors: "Donglai Wei*, <strong>Siddhant Kharbanda*</strong>, Sarthak Arora, Roshan Roy2, Akash Palrecha, ... , Song Bai, James Tompkin, Philip H.S. Torr, Hanspeter Pfister"
+venue: "CVPR"
+# bib: |
+#   @article{Doe2021,
+#     author = {Doe J.},
+#     journal = {A journal of imaginary research},
+#     title = {Another title of the publication},
+#     year = {2021}
+#   }
+Paper: https://donglaiw.github.io/paper/2022_cvpr_youmvos.pdf
+Project: https://donglaiw.github.io/proj/youMVOS/
+Code: https://github.com/donglaiw/YouMVOS
+---
+We present YouMVOS as the 1st Multi-shot video object segmentation dataset for long-scene, cross-shot videos and a Video Instance Segmentation (VIS) model which equips the Hybrid Task Cascade (HTC) architecture with pose and face re-identification modules and, achieves 39.3 mAP on YoutubeVIS'19 using a ResNet-50 backbone. 
